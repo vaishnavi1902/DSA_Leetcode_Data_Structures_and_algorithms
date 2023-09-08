@@ -6,22 +6,9 @@ class Solution {
         if (hayLen < needleLen) {
             return -1;
         }
-
-        for (int i = 0; i <= hayLen - needleLen; i++) {
-            if (haystack.charAt(i) == needle.charAt(0)) {
-                boolean found = true;
-                for (int j = 1; j < needleLen; j++) {
-                    if (haystack.charAt(i + j) != needle.charAt(j)) {
-                        found = false;
-                        break;
-                    }
-                }
-                if (found) {
-                    return i;
-                }
-            }
-        }
-
-        return -1;
+        
+        int x = haystack.indexOf(needle);
+        return x ;
+        // return -1;
     }
 }
