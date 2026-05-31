@@ -15,4 +15,8 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
