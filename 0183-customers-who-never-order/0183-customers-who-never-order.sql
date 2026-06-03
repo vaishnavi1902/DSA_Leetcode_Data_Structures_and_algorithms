@@ -3,7 +3,6 @@ SELECT
     name as Customers 
 FROM 
     Customers c
--- WHERE id > (SELECT customerId FROM Orders);
 LEFT JOIN
     Orders o
 ON 
