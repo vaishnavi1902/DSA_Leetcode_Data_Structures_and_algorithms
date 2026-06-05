@@ -23,6 +23,7 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [0181-employees-earning-more-than-their-managers](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0511-game-play-analysis-i) |
