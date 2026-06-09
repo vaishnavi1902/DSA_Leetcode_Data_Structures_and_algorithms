@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
--- Improved Improved approach
+-- Improved approach
 WITH CTE AS (SELECT * ,
        LEAD(NUM,1) OVER() AS FIRST_NUM,
        LEAD(NUM,2) OVER() AS SECOND_NUM
