@@ -31,4 +31,5 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [0197-rising-temperature](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
