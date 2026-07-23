@@ -34,4 +34,5 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [0584-find-customer-referee](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
