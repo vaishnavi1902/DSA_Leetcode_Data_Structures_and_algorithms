@@ -36,4 +36,12 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [1148-article-views-i](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
