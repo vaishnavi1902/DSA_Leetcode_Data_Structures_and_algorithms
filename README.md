@@ -43,11 +43,13 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [0001-two-sum](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -62,6 +64,7 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
