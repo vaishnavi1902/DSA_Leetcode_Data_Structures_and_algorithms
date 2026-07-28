@@ -44,6 +44,7 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [0014-longest-common-prefix](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,8 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
