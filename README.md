@@ -42,6 +42,7 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | ------- |
 | [0001-two-sum](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1929-concatenation-of-array) |
@@ -79,4 +80,8 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
