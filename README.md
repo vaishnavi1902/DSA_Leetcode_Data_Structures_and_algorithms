@@ -86,4 +86,20 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0027-remove-element) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
