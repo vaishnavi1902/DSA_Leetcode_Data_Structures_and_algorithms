@@ -34,6 +34,7 @@ An Open-Source repository that contains all the Data Structures and Algorithm qu
 | [0577-employee-bonus](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/vaishnavi1902/DSA_Leetcode_Data_Structures_and_algorithms/tree/master/1661-average-time-of-process-per-machine) |
